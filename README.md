@@ -5,7 +5,8 @@
 ## Personagens (Mais Informações)
 Redux Malta (Pedro)
 É Um Ser Mistico mas ele tem um problema... Ele é autista... ele tem 18 anos e namora duas meninas chamadas Cristyna e Sarah...
-#Como ele surgiu? 
+
+## Como ele surgiu? 
 Ele veio de um planeta chamado Soules Entity, Um planeta que trás seres diferentes do planeta terra
 
 SoulesGirl (Cristyna)
